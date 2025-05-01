@@ -1,0 +1,15 @@
+# 忽略所有 mp4 视频
+*.mp4
+
+# 忽略大 json 文件（可选）
+full_video.json
+standard_pose_data.json
+
+# 可选：忽略整个 data 文件夹
+# /data/
+
+# PyCharm 和 VSCode 工作区文件（推荐忽略）
+.idea/
+.vscode/
+__pycache__/
+*.pyc

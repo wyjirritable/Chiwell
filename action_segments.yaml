@@ -1,0 +1,55 @@
+video: "video1.mp4"
+
+segments:
+
+  - section: 0
+    name: "预备式"
+    start_time: 0.0
+    end_time: 42.0
+
+  - section: 1
+    name: "两手托天理三焦"
+    start_time: 42.0
+    end_time: 133.0
+
+  - section: 2
+    name: "左右开弓似射雕"
+    start_time: 133.0
+    end_time: 228.0
+
+  - section: 3
+    name: "调理脾胃须单举"
+    start_time: 228.0
+    end_time: 299.0
+
+  - section: 4
+    name: "五劳七伤往后瞧"
+    start_time: 299.0
+    end_time: 370.0
+
+  - section: 5
+    name: "摇头摆尾去心火"
+    start_time: 370.0
+    end_time: 470.0
+
+  - section: 6
+    name: "两手攀足固肾腰"
+    start_time: 470.0
+    end_time: 596.0
+
+  - section: 7
+    name: "攒拳怒目增气力"
+    start_time: 596.0
+    end_time: 652.0
+
+  - section: 8
+    name: "背后七颠百病消"
+    start_time: 652.0
+    end_time: 700.0
+
+  - section: 9
+    name: "收式"
+    start_time: 700.0
+    end_time: 727.0
+
+
